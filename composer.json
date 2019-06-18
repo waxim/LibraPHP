@@ -1,0 +1,13 @@
+{
+    "name": "alancole/libra-php",
+    "description": "PHP Bindings for Facebooks Libra Coin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alan Cole",
+            "email": "me@alancole.io"
+        }
+    ],
+    "require": {}
+}
