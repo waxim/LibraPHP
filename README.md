@@ -2,8 +2,8 @@
 
 Allows you to communicate with a running Libra instance.
 
-```
-$connection = new Libra\Connection(env("LIBRA_ADDRESS");
+```php
+$connection = new Libra\Connection(env("LIBRA_ADDRESS"));
 
 # Add an account to libra
 $alice = new Libra\Account();
